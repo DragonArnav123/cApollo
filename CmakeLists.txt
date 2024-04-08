@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.24.0)
+
+project(cApollo)
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(LINKER_LANGUAGE C)
+
+add_subdirectory(apollo)
+add_subdirectory(sandbox)
+add_subdirectory(glfw)
+add_subdirectory(cglm)
