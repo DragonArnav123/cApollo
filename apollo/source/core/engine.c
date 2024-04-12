@@ -3,6 +3,7 @@
 #include "core/engine.h"
 #include "log/log.h"
 #include "window/window.h"
+#include "global/global.h"
 
 #include "glad/glad.h"
 #include "GLFW/glfw3.h"
@@ -61,14 +62,20 @@ APi32 APOLLO_API AP_initialize(void) {
 	s_engine_initialized = true;
 	g_engine_intialization_status = APOLLO_ENGINE_INITIALIZED;
 
+	// initialze global
+	APint_global_initialize();
+
 	AP_LOG_INFO("%s", "Apollo Engine initialized succesfully!");
 
 	return APOLLO_TRUE;
 }
 
 void APOLLO_API AP_terminate(void) {
-	// terminate the engine
+	// terminate glfw
 	glfwTerminate();
+
+	// terminate global
+	APint_global_terminate();
 
 	AP_LOG_INFO("%s", "Apollo Engine terminated succesfully!");
 

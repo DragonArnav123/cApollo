@@ -126,7 +126,7 @@ bool APOLLO_API AP_wndw_is_current_ctxt(const apWindow *window);
  * @desc:
  *	it returns pointer to a window that is the current context
 */
-const apWindow APOLLO_API * const AP_wndw_get_current_ctxt(const apWindow *window);
+const apWindow APOLLO_API * const AP_wndw_get_current_ctxt();
 
 /*
  * @func: AP_wndw_use_wndw

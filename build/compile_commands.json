@@ -1,0 +1,530 @@
+[
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -x c-header -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\cmake_pch.h.gch -c E:\\Krishna\\Projects\\C\\Apollo\\build\\apollo\\CMakeFiles\\Apollo.dir\\cmake_pch.h.c",
+  "file": "E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/cmake_pch.h.gch"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\core\\engine.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\core\\engine.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/core/engine.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/core/engine.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\events\\engine_events.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\events\\engine_events.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/events/engine_events.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/events/engine_events.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\events\\event.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\events\\event.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/events/event.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/events/event.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\events\\key_events.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\events\\key_events.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/events/key_events.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/events/key_events.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\events\\mouse_events.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\events\\mouse_events.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/events/mouse_events.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/events/mouse_events.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\events\\window_events.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\events\\window_events.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/events/window_events.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/events/window_events.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\log\\log.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\log\\log.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/log/log.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/log/log.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\gfx\\buffer.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\gfx\\buffer.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/gfx/buffer.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/gfx/buffer.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\gfx\\shader.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\gfx\\shader.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/gfx/shader.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/gfx/shader.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\gfx\\shader_program.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\gfx\\shader_program.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/gfx/shader_program.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/gfx/shader_program.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\gfx\\texture.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\gfx\\texture.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/gfx/texture.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/gfx/texture.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\gfx\\vertex_array.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\gfx\\vertex_array.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/gfx/vertex_array.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/gfx/vertex_array.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\gfx\\vertex_layout.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\gfx\\vertex_layout.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/gfx/vertex_layout.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/gfx/vertex_layout.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\renderer\\stb_image_loader.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\renderer\\stb_image_loader.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/renderer/stb_image_loader.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/renderer/stb_image_loader.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\scene\\camera\\camera.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\scene\\camera\\camera.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/scene/camera/camera.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/scene/camera/camera.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\utils\\colors.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\utils\\colors.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/utils/colors.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/utils/colors.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\utils\\file_manager.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\utils\\file_manager.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/utils/file_manager.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/utils/file_manager.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\window\\viewport.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\window\\viewport.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/window/viewport.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/window/viewport.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\source\\window\\window.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\source\\window\\window.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/source/window/window.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/source/window/window.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/apollo",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/apollo/assets\\\" -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_CORE=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DApollo_EXPORTS @CMakeFiles/Apollo.dir/includes_C.rsp -std=gnu17 -Winvalid-pch -include E:/Krishna/Projects/C/Apollo/build/apollo/CMakeFiles/Apollo.dir/cmake_pch.h -o CMakeFiles\\Apollo.dir\\glad\\src\\glad.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\apollo\\glad\\src\\glad.c",
+  "file": "E:/Krishna/Projects/C/Apollo/apollo/glad/src/glad.c",
+  "output": "apollo/CMakeFiles/Apollo.dir/glad/src/glad.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/sandbox",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DSANDBOX_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/sandbox/assets\\\" @CMakeFiles/Sandbox.dir/includes_C.rsp -std=gnu17 -o CMakeFiles\\Sandbox.dir\\source\\main.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\sandbox\\source\\main.c",
+  "file": "E:/Krishna/Projects/C/Apollo/sandbox/source/main.c",
+  "output": "sandbox/CMakeFiles/Sandbox.dir/source/main.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/sandbox",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DAPOLLO_CONFIG_DEBUG=1 -DAPOLLO_PLATFORM_WINDOWS=1 -DSANDBOX_ASSETS_DIR=\\\"E:/Krishna/Projects/C/Apollo/sandbox/assets\\\" @CMakeFiles/Sandbox.dir/includes_C.rsp -std=gnu17 -o CMakeFiles\\Sandbox.dir\\source\\sandbox.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\sandbox\\source\\sandbox.c",
+  "file": "E:/Krishna/Projects/C/Apollo/sandbox/source/sandbox.c",
+  "output": "sandbox/CMakeFiles/Sandbox.dir/source/sandbox.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\context.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\context.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/context.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\init.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\init.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/init.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\input.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\input.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/input.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\monitor.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\monitor.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/monitor.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\platform.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\platform.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/platform.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\vulkan.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/vulkan.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\window.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\window.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/window.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\egl_context.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/egl_context.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\osmesa_context.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/osmesa_context.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_init.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\null_init.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/null_init.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\null_monitor.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/null_monitor.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_window.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\null_window.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/null_window.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\null_joystick.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/null_joystick.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_module.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_module.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_time.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_time.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_thread.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_thread.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_init.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_init.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_joystick.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_joystick.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_monitor.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_monitor.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\win32_window.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/win32_window.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/glfw/src",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -std=c99 -Wall -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\glfw\\src\\wgl_context.c",
+  "file": "E:/Krishna/Projects/C/Apollo/glfw/src/wgl_context.c",
+  "output": "glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\euler.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\euler.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/euler.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/euler.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\affine.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\affine.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/affine.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/affine.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\io.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\io.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/io.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/io.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\quat.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\quat.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/quat.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/quat.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\cam.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\cam.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/cam.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/cam.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\vec2.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\vec2.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/vec2.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/vec2.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\ivec2.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\ivec2.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/ivec2.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/ivec2.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\vec3.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\vec3.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/vec3.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/vec3.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\ivec3.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\ivec3.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/ivec3.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/ivec3.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\vec4.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\vec4.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/vec4.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/vec4.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\ivec4.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\ivec4.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/ivec4.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/ivec4.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat2.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat2.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat2.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat2.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat2x3.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat2x3.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat2x3.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat2x3.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat2x4.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat2x4.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat2x4.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat2x4.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat3.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat3.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat3.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat3.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat3x2.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat3x2.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat3x2.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat3x2.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat3x4.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat3x4.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat3x4.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat3x4.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat4.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat4.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat4.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat4.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat4x2.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat4x2.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat4x2.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat4x2.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\mat4x3.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\mat4x3.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/mat4x3.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/mat4x3.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\plane.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\plane.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/plane.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/plane.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\frustum.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\frustum.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/frustum.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/frustum.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\box.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\box.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/box.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/box.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\project.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\project.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/project.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/project.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\sphere.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\sphere.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/sphere.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/sphere.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\ease.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\ease.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/ease.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/ease.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\curve.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\curve.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/curve.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/curve.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\bezier.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\bezier.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/bezier.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/bezier.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\ray.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\ray.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/ray.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/ray.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\affine2d.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\affine2d.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/affine2d.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/affine2d.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_lh_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\ortho_lh_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/ortho_lh_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_lh_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_lh_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\ortho_lh_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/ortho_lh_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_lh_zo.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_rh_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\ortho_rh_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/ortho_rh_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_rh_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\ortho_rh_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\ortho_rh_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/ortho_rh_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/ortho_rh_zo.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_lh_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\persp_lh_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/persp_lh_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/persp_lh_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_lh_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\persp_lh_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/persp_lh_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/persp_lh_zo.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_rh_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\persp_rh_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/persp_rh_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/persp_rh_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\persp_rh_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\persp_rh_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/persp_rh_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/persp_rh_zo.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_lh_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\view_lh_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/view_lh_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/view_lh_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_lh_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\view_lh_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/view_lh_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/view_lh_zo.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_rh_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\view_rh_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/view_rh_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/view_rh_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\view_rh_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\view_rh_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/view_rh_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/view_rh_zo.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\project_no.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\project_no.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/project_no.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/project_no.c.obj"
+},
+{
+  "directory": "E:/Krishna/Projects/C/Apollo/build/cglm",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\gcc.exe -DCGLM_EXPORTS -Dcglm_EXPORTS @CMakeFiles/cglm.dir/includes_C.rsp -std=gnu11 -Wall -O3 -o CMakeFiles\\cglm.dir\\src\\clipspace\\project_zo.c.obj -c E:\\Krishna\\Projects\\C\\Apollo\\cglm\\src\\clipspace\\project_zo.c",
+  "file": "E:/Krishna/Projects/C/Apollo/cglm/src/clipspace/project_zo.c",
+  "output": "cglm/CMakeFiles/cglm.dir/src/clipspace/project_zo.c.obj"
+}
+]

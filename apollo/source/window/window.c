@@ -1,13 +1,11 @@
 #include "APpch.h"
 #include "core/core.h"
 #include "window/window.h"
+#include "global/global.h"
 
 #include "GLFW/glfw3.h"
 #include <GL/gl.h>
 #include "renderer/stb_image_loader.h"
-
-// hold the current context
-const apWindow *g_current_ctx = NULL;
 
 // ap internal
 static void APint_set_gl_viewport(const apWindow *window);
@@ -75,21 +73,21 @@ bool APOLLO_API AP_wndw_is_open(const apWindow *this) {
 }
 
 bool APOLLO_API AP_wndw_is_current_ctxt(const apWindow *window) {
-	return (g_current_ctx == window);
+	return (APint_global_get()->active_window == window);
 }
 
-const apWindow APOLLO_API * const AP_wndw_get_current_ctxt(const apWindow *window) {
-	return g_current_ctx;
+const apWindow APOLLO_API * const AP_wndw_get_current_ctxt() {
+	return APint_global_get()->active_window;
 }
 
 void APOLLO_API AP_wndw_use_wndw(const apWindow *this) {
 	glfwMakeContextCurrent(this->glfw_win);
-	g_current_ctx = this;
+	APint_global_get()->active_window = (apWindow *) this;
 }
 
 void APOLLO_API AP_wndw_free_current_ctxt(void) {
 	glfwMakeContextCurrent(NULL);
-	g_current_ctx = NULL;
+	APint_global_get()->active_window = NULL;
 }
 
 void APOLLO_API AP_wndw_set_width(apWindow *this, int width) {
